@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Лариса Черемисина](https://up.htmlacademy.ru/htmlcss/14/user/229782).
-* Наставник: [Александр Аверьянов](https://github.com/aversan).
+* Наставник: [Ирина Малиновская](https://github.com/aversan).
 
 ---
 
